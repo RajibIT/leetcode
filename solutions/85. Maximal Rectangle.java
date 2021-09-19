@@ -1,39 +1,39 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if(matrix.length == 0)
+        if(matrix == null || matrix.length == 0)
             return 0;
-        int[] rowArr = new int[matrix[0].length];
-        
+        int row = matrix.length;
+        int col = matrix[0].length;
+        int row_arr[] = new int[col]; 
         int max = 0;
-        for(int i = 0; i < matrix.length; i++) {
-            for(int j = 0; j < matrix[0].length; j++) {
-                if(matrix[i][j] != '0'){
-                    rowArr[j] += 1;
+        for(int i=0;i<row;i++){
+            for(int j =0;j<col;j++){
+                if(matrix[i][j] == '0'){
+                    row_arr[j]=0;
                 }else{
-                    rowArr[j] = 0;
+                    row_arr[j]+=1;
                 }
             }
-            int area = findHistogramArea(rowArr);
-           if(area > max) {
-               max = area;
-           }
+            int area = Math.max(max, findAreaHistogram(row_arr));
+            if(area>max){
+                max = area;
+            }
         }
         return max;
     }
-    public int findHistogramArea(int[] rowArr) {
-        
-        
-        Stack<Integer> stack = new Stack<>();
-        stack.push(0);
+    public int findAreaHistogram(int[] row_arr){
+        Stack<Integer> stack = new Stack<Integer>();
         int area = 0;
-        for(int i = 1; i < rowArr.length; i++) {
-            int curr = rowArr[i];
-            while(!stack.isEmpty() && curr < rowArr[stack.peek()]) {
-                int idx = stack.pop();
-                if(stack.isEmpty()){
-                    area = Math.max(area, rowArr[idx] * i);
-                }else{
-                    area = Math.max(area, rowArr[idx] * (i - stack.peek() - 1));
-                    }
-                }
+        stack.push(0);
+        for(int i=1;i<row_arr.length;i++){
+            int curr = row_arr[i]; 
+            if(!stack.isEmpty() && curr >= row_arr[stack.peek()]){
                 stack.push(i);
+            }else{
+                while(!stack.isEmpty() && curr < row_arr[stack.peek()]){
+                    int idx = stack.pop();
+                    if(stack.isEmpty()){
+                        area = Math.max(area, row_arr[idx]*i);
+                    }else{
+                        area = Math.max(area, row_arr[idx]*(i-stack.peek()-1));    
+                      }
