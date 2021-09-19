@@ -102,6 +102,7 @@
 |1433|[ Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)|[Java](./solutions/1433.%20Check%20If%20a%20String%20Can%20Break%20Another%20String.java)|9 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./solutions/1512.%20Number%20of%20Good%20Pairs.java)|0 ms|
+|1519|[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[Java](./solutions/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.java)|37 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./solutions/1528.%20Shuffle%20String.java)|1 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
 |1725|[ Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Java](./solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.java)|7 ms|
