@@ -84,6 +84,7 @@
 |1103|[ Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./solutions/1103.%20Distribute%20Candies%20to%20People.java)|2 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./solutions/1108.%20Defanging%20an%20IP%20Address.java)|0 ms|
 |1222|[ Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Java](./solutions/1222.%20Queens%20That%20Can%20Attack%20the%20King.java)|1 ms|
+|1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](./solutions/1254.%20Number%20of%20Closed%20Islands.java)|1 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|0 ms|
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](./solutions/1306.%20Jump%20Game%20III.java)|2 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
