@@ -37,9 +37,3 @@ class Solution {
                 count++;
             }else{
                 count--;
-            }
-            
-        }
-        return value;
-    }
-}
