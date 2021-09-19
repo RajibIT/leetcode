@@ -10,30 +10,30 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode list = l1;
-        ListNode prev = null;
         int carry = 0;
-        while(l1 != null && l2 != null) {
-            int sum = l1.val + l2.val + carry;
-            carry = sum / 10;
-            int remainder = sum % 10;
-            l1.val = remainder;
-            prev = l1;
-            l1 = l1.next;
-            l2 = l2.next;
+        int counter1 = 0;
+        ListNode current1 = l1;
+        while(current1 != null) {
+            counter1++;
+            current1 = current1.next;
+        }
+        int counter2 = 0;
+        ListNode current2 = l2;
+        while(current2 != null) {
+            counter2++;
+            current2 = current2.next;
         }
         
-        if(l2 != null) {
-            prev.next = l2;
-            l1 = l2;
-        }
+        if(counter1 > counter2) {
+            return addTwoListsNumber(l1, l2);
             
-        while(l1 != null) {
-            int sum = l1.val + carry;
-            carry = sum / 10;
-            int remainder = sum % 10;
-            l1.val = remainder;
-            prev = l1;
-            l1 = l1.next;
+        }else{
+            return addTwoListsNumber(l2, l1);
         }
-        if(carry != 0) prev.next = new ListNode(carry);
+        
+        
+    }
+    public ListNode addTwoListsNumber(ListNode biggerList, ListNode smallerList) {
+        int carry = 0;
+        ListNode prev = null;
+        ListNode bigList = biggerList;
