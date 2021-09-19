@@ -40,6 +40,7 @@
 |313|[ Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Java](./solutions/313.%20Super%20Ugly%20Number.java)|23 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./solutions/322.%20Coin%20Change.java)|11 ms|
 |518|[ Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](./solutions/518.%20Coin%20Change%202.java)|2 ms|
+|790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Java](./solutions/790.%20Domino%20and%20Tromino%20Tiling.java)|0 ms|
 |943|[ Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|[C++](./solutions/943.%20Find%20the%20Shortest%20Superstring.cpp)|20 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./solutions/1108.%20Defanging%20an%20IP%20Address.java)|0 ms|
 |1222|[ Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Java](./solutions/1222.%20Queens%20That%20Can%20Attack%20the%20King.java)|1 ms|
