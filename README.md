@@ -51,6 +51,7 @@
 |313|[ Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Java](./solutions/313.%20Super%20Ugly%20Number.java)|23 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./solutions/322.%20Coin%20Change.java)|11 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.java)|7 ms|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|9 ms|
 |518|[ Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](./solutions/518.%20Coin%20Change%202.java)|2 ms|
 |790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Java](./solutions/790.%20Domino%20and%20Tromino%20Tiling.java)|0 ms|
 |909|[ Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Java](./solutions/909.%20Snakes%20and%20Ladders.java)|3 ms|
