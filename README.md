@@ -104,6 +104,7 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./solutions/1512.%20Number%20of%20Good%20Pairs.java)|0 ms|
 |1519|[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[Java](./solutions/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.java)|37 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./solutions/1528.%20Shuffle%20String.java)|1 ms|
+|1559|[ Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/)|[Java](./solutions/1559.%20Detect%20Cycles%20in%202D%20Grid.java)|31 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
 |1725|[ Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Java](./solutions/1725.%20Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.java)|7 ms|
 |1726|[ Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|[Java](./solutions/1726.%20Tuple%20with%20Same%20Product.java)|326 ms|
