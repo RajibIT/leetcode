@@ -29,9 +29,9 @@ class Solution {
         
         TreeNode root = new TreeNode(preorder[preOrderIndex++]);
         
-        /*if(root == null) {
+        if(root == null) {
             return null;
-        }*/
+        }
         
         if(start == end) {
             return root;
