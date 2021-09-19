@@ -38,6 +38,7 @@
 |264|[ Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](./solutions/264.%20Ugly%20Number%20II.java)|5 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./solutions/300.%20Longest%20Increasing%20Subsequence.java)|61 ms|
 |313|[ Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Java](./solutions/313.%20Super%20Ugly%20Number.java)|23 ms|
+|518|[ Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](./solutions/518.%20Coin%20Change%202.java)|2 ms|
 |943|[ Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|[C++](./solutions/943.%20Find%20the%20Shortest%20Superstring.cpp)|20 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./solutions/1108.%20Defanging%20an%20IP%20Address.java)|0 ms|
 |1222|[ Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Java](./solutions/1222.%20Queens%20That%20Can%20Attack%20the%20King.java)|1 ms|
