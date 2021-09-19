@@ -19,3 +19,4 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./solutions/206.%20Reverse%20Linked%20List.java)|0 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./solutions/234.%20Palindrome%20Linked%20List.java)|7 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Java](./solutions/258.%20Add%20Digits.java)|1 ms|
+|1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
