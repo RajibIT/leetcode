@@ -25,15 +25,15 @@
  */
 class Solution {
     public TreeNode sortedListToBST(ListNode head) {
-        List<Integer> list = new ArrayList<>();
-        ListNode node = head;
-        while(node != null) {
-            list.add(node.val);
-            node = node.next;
-        }
-        return getBST(list, 0, list.size() - 1);
-        
-    }
-    public TreeNode getBST(List<Integer> arr, int start, int end) {
-        if(start > end) {
+        if(head == null)
             return null;
+        ListNode node = head;
+        List<Integer> nums = new ArrayList<Integer>();
+        while(node != null){
+            nums.add(node.val);
+            node=node.next;
+        }
+            
+        return sortedBST(nums, 0, nums.size()-1);
+    }
+    private TreeNode sortedBST(List<Integer> nums, int start, int end){
