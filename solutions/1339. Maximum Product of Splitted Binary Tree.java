@@ -14,26 +14,26 @@
  * }
  */
 class Solution {
-    long max;
-    long sum;
+    long max = 1;
     public int maxProduct(TreeNode root) {
-        sum = sumOfAllNodeValues(root);
-        max = 1;
-        findMaxProduct(root);
-        return (int)(max % 1000000007);
+        long sum_all = 0;
+        sum_all = modify(root);
+        calMaxProd(root, sum_all);
+        return (int)(max%1000000007);
     }
-    public void findMaxProduct(TreeNode tree) {
-        if(tree.left != null) {
-            maxProduct(tree.left.val);
-            findMaxProduct(tree.left);
-        }
-        if(tree.right != null) {
-            maxProduct(tree.right.val);
-            findMaxProduct(tree.right);
-        }
-        
+    private int modify(TreeNode root){
+        if(root == null) return 0;
+        root.val = root.val+ modify(root.left)+modify(root.right);
+        return root.val;
     }
-    
-    public int sumOfAllNodeValues(TreeNode root){
-        if(root == null) {
-            return 0;
+    private void calMaxProd(TreeNode root, long sum_all){
+        if(root == null) return;
+        if(root.left != null){
+            long ans = root.left.val*(sum_all - root.left.val);
+            max = Math.max(max,ans);
+            calMaxProd(root.left,sum_all);
+        }
+        if(root.right != null){
+            long ans = root.right.val*(sum_all - root.right.val);
+            max = Math.max(max,ans);
+            calMaxProd(root.right,sum_all);
