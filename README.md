@@ -6,6 +6,7 @@
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./solutions/2.%20Add%20Two%20Numbers.java)|1 ms|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./solutions/14.%20Longest%20Common%20Prefix.java)|0 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|1 ms|
+|34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.java)|0 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./solutions/42.%20Trapping%20Rain%20Water.java)|1 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./solutions/69.%20Sqrt(x).java)|1 ms|
