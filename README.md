@@ -16,6 +16,7 @@
 |45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./solutions/45.%20Jump%20Game%20II.java)|0 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Java](./solutions/46.%20Permutations.java)|1 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|37 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|1 ms|
 |55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./solutions/55.%20Jump%20Game.java)|1 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|5 ms|
 |60|[ Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[Java](./solutions/60.%20Permutation%20Sequence.java)|54 ms|
