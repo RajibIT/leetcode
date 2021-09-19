@@ -29,3 +29,4 @@
 |1512|[ Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./solutions/1512.%20Number%20of%20Good%20Pairs.java)|0 ms|
 |1528|[ Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./solutions/1528.%20Shuffle%20String.java)|1 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
+|1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Java](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.java)|9 ms|
