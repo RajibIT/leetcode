@@ -14,6 +14,7 @@
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./solutions/36.%20Valid%20Sudoku.java)|30 ms|
 |37|[ Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./solutions/37.%20Sudoku%20Solver.java)|9 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./solutions/42.%20Trapping%20Rain%20Water.java)|1 ms|
+|44|[ Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](./solutions/44.%20Wildcard%20Matching.java)|12 ms|
 |45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./solutions/45.%20Jump%20Game%20II.java)|0 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[Java](./solutions/46.%20Permutations.java)|1 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|37 ms|
