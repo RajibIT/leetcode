@@ -22,6 +22,7 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|3 ms|
 |131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](./solutions/131.%20Palindrome%20Partitioning.java)|7 ms|
 |132|[ Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|[Java](./solutions/132.%20Palindrome%20Partitioning%20II.java)|981 ms|
+|140|[ Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](./solutions/140.%20Word%20Break%20II.java)|1 ms|
 |149|[ Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](./solutions/149.%20Max%20Points%20on%20a%20Line.java)|9 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|1 ms|
 |174|[ Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](./solutions/174.%20Dungeon%20Game.java)|1 ms|
