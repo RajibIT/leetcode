@@ -37,6 +37,7 @@
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./solutions/1108.%20Defanging%20an%20IP%20Address.java)|0 ms|
 |1222|[ Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Java](./solutions/1222.%20Queens%20That%20Can%20Attack%20the%20King.java)|1 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|0 ms|
+|1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](./solutions/1306.%20Jump%20Game%20III.java)|2 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
 |1339|[ Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)|[Java](./solutions/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.java)|7 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)|0 ms|
