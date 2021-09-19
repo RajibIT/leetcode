@@ -45,6 +45,7 @@
 |140|[ Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](./solutions/140.%20Word%20Break%20II.java)|1 ms|
 |149|[ Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](./solutions/149.%20Max%20Points%20on%20a%20Line.java)|9 ms|
 |155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./solutions/155.%20Min%20Stack.java)|4 ms|
+|160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.java)|1 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|1 ms|
 |174|[ Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](./solutions/174.%20Dungeon%20Game.java)|1 ms|
 |188|[ Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Java](./solutions/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.java)|92 ms|
