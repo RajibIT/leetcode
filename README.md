@@ -54,6 +54,7 @@
 |790|[ Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|[Java](./solutions/790.%20Domino%20and%20Tromino%20Tiling.java)|0 ms|
 |909|[ Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Java](./solutions/909.%20Snakes%20and%20Ladders.java)|3 ms|
 |943|[ Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|[C++](./solutions/943.%20Find%20the%20Shortest%20Superstring.cpp)|20 ms|
+|1103|[ Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Java](./solutions/1103.%20Distribute%20Candies%20to%20People.java)|2 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./solutions/1108.%20Defanging%20an%20IP%20Address.java)|0 ms|
 |1222|[ Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)|[Java](./solutions/1222.%20Queens%20That%20Can%20Attack%20the%20King.java)|1 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|0 ms|
