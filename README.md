@@ -25,6 +25,7 @@
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./solutions/234.%20Palindrome%20Linked%20List.java)|7 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Java](./solutions/258.%20Add%20Digits.java)|1 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./solutions/300.%20Longest%20Increasing%20Subsequence.java)|61 ms|
+|943|[ Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|[Java](./solutions/943.%20Find%20the%20Shortest%20Superstring.java)|20 ms|
 |1108|[ Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](./solutions/1108.%20Defanging%20an%20IP%20Address.java)|0 ms|
 |1281|[ Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](./solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)|0 ms|
 |1313|[ Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./solutions/1313.%20Decompress%20Run-Length%20Encoded%20List.java)|3 ms|
