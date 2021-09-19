@@ -10,7 +10,7 @@ class Solution {
                 nums[prev] = num;
                 
             }
-        }
+        }
         return prev + 1;
     }
 }
