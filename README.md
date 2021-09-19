@@ -17,6 +17,7 @@
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./solutions/62.%20Unique%20Paths.java)|0 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](./solutions/64.%20Minimum%20Path%20Sum.java)|2 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./solutions/69.%20Sqrt(x).java)|1 ms|
+|71|[ Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./solutions/71.%20Simplify%20Path.java)|5 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.java)|0 ms|
 |85|[ Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java](./solutions/85.%20Maximal%20Rectangle.java)|7 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./solutions/98.%20Validate%20Binary%20Search%20Tree.java)|0 ms|
