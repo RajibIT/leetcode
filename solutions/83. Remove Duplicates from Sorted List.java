@@ -37,5 +37,3 @@ class Solution {
             node = prev;
         }
         return head;
-    }
-}
